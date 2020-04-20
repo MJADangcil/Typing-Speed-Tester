@@ -1,8 +1,8 @@
 # Typing-Speed-Tester
-This is a simple typing speed tester that tests for accuracy upon completion of a sample text.
+This is a simple typing speed tester that tests for accuracy and speed upon completion of a sample text.
 
 ## Notes
-It does track accuracy during the test. However, there is only one sample text, and there is not calculation for words per minute.
+It does track accuracy during the test. However, there is only one sample text, and there is no calculation for words per minute.
 
 ## Built With
 + HTML
